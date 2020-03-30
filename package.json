@@ -1,0 +1,21 @@
+{
+  "name": "keypercussion",
+  "version": "1.0.0",
+  "description": "Press keys to generate sfx",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Tim Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "html": "^1.0.0"
+  }
+}
